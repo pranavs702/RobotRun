@@ -1,0 +1,9 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="com.intellij.execution.console.ConsoleExecuteAction@PydevConsoleRunner" count="1" />
+      <entry action="com.jetbrains.python.console.PydevConsoleRunnerImpl$7@PydevConsoleRunner" count="1" />
+      <entry action="org.jetbrains.plugins.terminal.TerminalView$CloseSession@Terminal" count="1" />
+    </counts>
+  </component>
+</application>
